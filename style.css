@@ -23,7 +23,7 @@ img{
 }
 h1{
     margin: 30px;
-    font-family: 'Lobster', cursive;
+    font-family: 'Lobster',cursive;
     text-shadow: 5px 0 #232931;
     font-size: 8rem;
     
@@ -37,13 +37,14 @@ body{
 }
 
 p{
-    font-family: 'Indie Flower', cursive;
+    font-family: 'Indie Flower',cursive;
     font-size: 2rem;
     color: #4ECCA3;
     
 }
 
 footer{
+    font-family: 'Indie Flower',cursive;
     margin: 7% 15%;
     display: block;
     text-align: center;
